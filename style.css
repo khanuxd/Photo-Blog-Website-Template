@@ -56,7 +56,10 @@ img {
     float:left;
     margin: 1.66%
 }
-
+footer {
+    padding: 20px 0;
+    color: #f3f3f3;
+}
 footer p {
     font-family:'Montserrat', sans-serif;
     font-weight: 400;
